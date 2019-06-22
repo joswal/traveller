@@ -1,0 +1,17 @@
+/* $ */
+
+body {
+    color: darkgrey;
+    /* columns: 300px 2; */
+    font-family: "Roboto", sans-serif;
+}
+
+/* .box {
+    a {
+        padding: 10px;
+    }
+} */
+
+img {
+    max-width: 100%
+}
